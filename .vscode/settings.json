@@ -1,0 +1,5 @@
+{
+    "files.autoSaveDelay": 500,
+    "git.ignoreLimitWarning": true,
+    "files.autoSave": "afterDelay"
+}
